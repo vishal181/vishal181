@@ -5,4 +5,4 @@
 
 ---
 
-<img align="left" alt="Vishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishal181_icons=true&hide_border=true" />
+<img align="left" alt="Vishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishal181&show_icons=true&hide_border=true" />
