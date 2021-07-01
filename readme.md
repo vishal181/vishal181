@@ -1,3 +1,3 @@
-###Hey fellow Developers!
+### Hey fellow Developers!
 
-##I'm currrently learning everything
+## I'm currrently learning everything
