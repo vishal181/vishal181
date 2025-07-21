@@ -2,7 +2,7 @@
 
 🚀 **Java Backend Developer | Spring Boot Enthusiast | Problem Solver**
 
-- 💻 Backend Dev with **2+ years** experience building scalable Java microservices.
+- 💻 Backend Dev with **3+ years** experience building scalable Java microservices.
 - 🔧 Proficient in **Java | Spring Boot | REST APIs | MySQL | MongoDB**
 - ☁️ Deployed apps on **AWS (Elastic Beanstalk)** and familiar with **CI/CD pipelines (Jenkins, GitLab CI)**
 - 🧠 Learning more about **Docker | Kubernetes | Distributed Systems**
